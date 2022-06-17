@@ -1,0 +1,71 @@
+/*--------------------------------
+ANIOMATION
+---------------------------------*/
+.btn:hover{
+    background-color: #a45723;
+}
+@-webkit-keyframes banner-in {
+    0% {  
+    background-color:rgba(0,0,0,1);
+    }
+    100% { 
+    background-color:rgba(0,0,0,0.5);
+    }
+    }
+    @-moz-keyframes banner-in {
+    0% {  
+    background-color:rgba(0,0,0,1);
+    }
+    100% { 
+    background-color:rgba(0,0,0,0.5);
+    }
+    }
+    @-o-keyframes banner-in {
+    0% {  
+    background-color:rgba(0,0,0,1);
+    }
+    100% { 
+    background-color:rgba(0,0,0,0.5);
+    }
+    }
+    @keyframes banner-in {
+    0% {  
+    background-color:rgba(0,0,0,1);
+    }
+    100% { 
+    background-color:rgba(0,0,0,0.5);
+    }
+    }
+    
+    @-webkit-keyframes opacity {
+    0% {  
+    opacity:0;
+    }
+    100% { 
+    opacity:1;
+    }
+    }
+    @-moz-keyframes opacity {
+    0% {  
+    opacity:0;
+    }
+    100% { 
+    opacity:1;
+    }
+    }
+    @-o-keyframes opacity {
+    0% {  
+    opacity:0;
+    }
+    100% { 
+    opacity:1;
+    }
+    }
+    @keyframes opacity {
+    0% {  
+    opacity:0;
+    }
+    100% { 
+    opacity:1;
+    }
+    }
